@@ -1,0 +1,10 @@
+1. b.1 Reducer
+2. b. Client
+3. b. secondary namenode
+4. b. Yet Another Resource Negotiator
+5. c. 3 sec
+6. a. Name Node & Resource Manger
+7. b. AppId
+8. a. NodeManager
+9. a. Namenode
+10. a. fsimage
